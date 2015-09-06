@@ -1,6 +1,6 @@
 #gh3
 
-**gh3** is a client-side Javascript API v3 wrapper for GitHub
+**gh3** is a cliient-side Javascript API v3 wrapper for GitHub
 
 **gh3** is [async.js](https://github.com/caolan/async) compliant. (thank you to [Atinux](https://github.com/Atinux) and [mklabs](https://github.com/mklabs))
 
